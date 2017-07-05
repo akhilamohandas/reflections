@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 git init
 Initialized empty Git repository in C:/Users/amohanda.ORADEV/version-control/reflections/.git/
 It initializes version controling for this folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+In staging area we have not yet committed the changes.  Can make any required changes and commit later.
