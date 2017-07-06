@@ -14,3 +14,6 @@ If a new version is required and also want to have older version then its better
 
 How do the diagrams help you visualize the branch structure?
 Its easier to understand with branch structure
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It merges the code in both the branches into one (master).  Its represented it diagram for easy understanding.
